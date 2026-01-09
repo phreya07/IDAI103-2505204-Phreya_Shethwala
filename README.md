@@ -116,6 +116,9 @@ Transparency in AI-generated recommendations
 Steramlit- https://5ygqq9gvw22ws9gsbxhuii.streamlit.app/
 
 
+I have used the OpenAI API key because the Gemini API key could not be used due to age restrictions and access limitations. As a result, the API integration was changed to OpenAI, which provided reliable access and allowed the project to function smoothly without interruptions.
+
+
 
 
 
