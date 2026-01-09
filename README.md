@@ -4,116 +4,107 @@ ArtRestorer AI is an AI-powered web application that provides expert guidance fo
 🎨 ArtRestorer AI
 
 # 📌 Project Overview
-ArtRestorer AI is an AI-powered web application designed to assist in art restoration, conservation, and cultural heritage preservation. The application provides expert-level restoration guidance, historical context, and ethical conservation recommendations for a wide range of artworks, including paintings, sculptures, manuscripts, murals, textiles, and ceramics.
-By combining art history, conservation principles, and generative artificial intelligence, ArtRestorer AI functions as a smart digital assistant for professionals, students, and art enthusiasts. The system generates structured, culturally sensitive restoration insights based on user-provided descriptions rather than direct physical intervention.
+
+ArtRestorer AI is a web application that helps users understand and plan art restoration in a responsible way. It provides guidance on restoration methods, background information, and ethical conservation practices for different types of artworks such as paintings, sculptures, manuscripts, murals, textiles, and ceramics.
+The app combines knowledge of art history with AI technology to act as a helpful digital assistant for students, professionals, and art enthusiasts. Rather than carrying out physical restoration, it offers clear and culturally respectful suggestions based on user descriptions to support informed decision-making.
 
 # 🎯 Purpose
-The purpose of ArtRestorer AI is to support the preservation and understanding of cultural and historical artworks by making expert restoration knowledge more accessible. The application helps users analyze damage, materials, artistic styles, and ethical restoration approaches while bridging the gap between modern AI technology and traditional cultural heritage practices.
-The app is designed strictly as an educational and advisory tool and is not intended to replace certified professional conservators.
+
+The purpose of ArtRestorer AI is to support the preservation and understanding of cultural and historical artworks. It aims to make restoration knowledge easier to access and helps users learn about artwork damage, materials, artistic styles, and ethical restoration approaches.
+The application also connects modern AI technology with traditional cultural heritage practices. It is designed as an educational and advisory tool and is not meant to replace certified professional conservators.
 
 # 🏆 Project Goals
 
-The key goals of ArtRestorer AI are to:
+The main goals of ArtRestorer AI are to:
 
-Provide accurate restoration guidance based on art period, style, and cultural context
+Provide restoration guidance based on the artwork’s time period, style, and cultural background
 
-Assist users in identifying artwork damage and condition issues
+Help users identify possible damage and condition issues
 
-Promote ethical conservation principles such as minimal intervention and reversibility
+Encourage ethical conservation practices such as minimal intervention and reversibility
 
-Support both traditional and digital restoration workflows
+Support both traditional and digital restoration processes
 
-Offer an intuitive, visually engaging platform for art research and learning
+Offer a simple and visually engaging platform for learning and research
 
 # 💡 User Motivation
 
-Users are motivated to use ArtRestorer AI due to:
+Users may choose to use ArtRestorer AI because of:
 
-A strong interest in preserving history and cultural heritage
+An interest in preserving history and cultural heritage
 
-Limited access to professional conservation advice
+Limited access to professional art conservation advice
 
 Curiosity about artistic techniques, materials, and historical styles
 
-Academic and educational requirements (students, teachers, researchers)
+Academic needs for students, teachers, and researchers
 
-Museum documentation, exhibition planning, and digital visualization projects
+Museum documentation, exhibition preparation, and digital art projects
 
-ArtRestorer AI empowers users by providing clarity, confidence, and structured guidance before making any restoration-related decisions.
+The app helps users feel more confident and informed before making any restoration-related decisions.
 
 # ⚠️ Limitations of Existing Heritage & Restoration Applications
 
-Many existing art restoration tools and applications face the following challenges:
+Many existing art restoration tools face several challenges, including:
 
-Overly technical systems designed only for professionals
+Being too technical and difficult for non-professionals to use
 
-Lack of cultural and historical sensitivity
+Limited cultural and historical awareness
 
-Generic AI outputs with no art-specific understanding
+Generic AI responses that lack art-specific detail
 
-Poor user experience and outdated interfaces
+Poor design and outdated user interfaces
 
-Absence of ethical conservation standards
+Little focus on ethical conservation principles
 
-Limited support for diverse global art traditions
+Limited support for artworks from different global cultures
 
 # ✅ How ArtRestorer AI Is Different
 
-ArtRestorer AI addresses these limitations by:
+ArtRestorer AI stands out because it:
 
-Combining generative AI with art history and conservation ethics
+Combines AI with art history and conservation ethics
 
-Supporting multiple art forms and global cultural traditions
+Supports multiple art forms and cultural traditions
 
-Offering adjustable creativity levels (from conservative to creative)
+Allows users to adjust how creative or conservative the responses are
 
-Generating structured, professional restoration reports
+Provides clear, well-structured restoration suggestions
 
-Maintaining a visually rich, modern, and user-friendly interface
+Uses a modern, easy-to-navigate interface
 
-Being accessible to students, professionals, and enthusiasts alike
+Is suitable for students, professionals, and art enthusiasts
 
 # 🛠️ How ArtRestorer AI Solves the Problem
 
-ArtRestorer AI solves restoration challenges by:
+ArtRestorer AI addresses restoration challenges by:
 
-Using structured prompt engineering to guide AI outputs
+Using carefully designed prompts to guide AI responses
 
-Integrating historical context, material analysis, and ethical reasoning
+Including historical context, material analysis, and ethical reasoning
 
-Providing clear and well-organized restoration suggestions
+Presenting suggestions in a clear and organised manner
 
-Allowing users to control the creativity level based on use case
+Giving users control over creativity levels based on their needs
 
-Encouraging informed decision-making rather than direct restoration action
+Encouraging informed thinking rather than direct restoration action
 
 # ⚖️ Ethical Considerations
 
-ArtRestorer AI follows internationally recognized conservation ethics, including:
+ArtRestorer AI follows important conservation ethics, such as:
 
-Minimal intervention in restoration recommendations
+Suggesting minimal changes to original artworks
 
-Reversibility of suggested restoration methods
+Supporting restoration methods that can be reversed
 
-Respect for cultural, religious, and historical significance
+Respecting cultural, religious, and historical significance
 
-Transparency in AI-generated outputs and limitations
+Being transparent about the limitations of AI-generated guidance
 
 # 🌐 Deployment
-The application has been deployed using Streamlit and is accessible at:
+The application is built and deployed using Streamlit and can be accessed here:
 
 Streamlit App: https://5ygqq9gvw22ws9gsbxhuii.streamlit.app/
 
 # 🔑 API Integration Note
-I have used the OpenAI API key because the Gemini API key could not be used due to age restrictions and access limitations. As a result, the API integration was changed to OpenAI, which provided reliable access and allowed the project to function smoothly without interruptions.
-
-
-
-
-
-
-
-
-
-
-
+I have used the OpenAI API key because the Gemini API key could not be used due to age restrictions and access limitations. As a result, the OpenAI API was used to ensure that the application works smoothly and reliably.
